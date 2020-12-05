@@ -1,0 +1,15 @@
+[submodule "pack/vendor/start/airline"]
+	path = pack/vendor/start/airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "pack/vendor/start/ctrlp"]
+	path = pack/vendor/start/ctrlp
+	url = https://github.com/ctrlpvim/ctrlp.vim.git
+[submodule "pack/vendor/start/fugitive"]
+	path = pack/vendor/start/fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "pack/vendor/start/nerdtree"]
+	path = pack/vendor/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "pack/vendor/start/tagbar"]
+	path = pack/vendor/start/tagbar
+	url = https://github.com/preservim/tagbar.git
