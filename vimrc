@@ -105,9 +105,9 @@ nmap <F10> :TagbarToggle<cr>
 set tags=tags; " When Vim tries to locate the 'tags' file, it first looks at the current directory, then the parent, and so on
 
 " Open NERDTree and Tagbar automatically
-autocmd VimEnter * NERDTree
-"autocmd VimEnter * TagbarToggle
-call feedkeys("\<C-H>")
+" autocmd VimEnter * NERDTree
+" autocmd VimEnter * TagbarToggle
+" call feedkeys("\<C-H>")
 
 " airline
 let g:airline_section_z = '%l/%L, %c'
