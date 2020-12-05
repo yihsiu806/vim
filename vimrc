@@ -30,7 +30,6 @@ set tw=0           " Disable long line auto broken
 "set nowrap        " Disable auto-wrapping
 set colorcolumn=80
 
-set showbreak=↪\
 set list listchars=trail:.
 set list listchars=tab:▸\ ,trail:·,precedes:←,extends:→,space:·
 
